@@ -2,7 +2,9 @@
 
 int main()
 {
-printf("Baladinha mostro");
-printf("nossa");
-return 0;
+  //Acrescentando coisas nescessarias
+  printf("Baladinha mostro");
+  printf("nossa");
+  return 0;
+  
 }
