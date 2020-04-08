@@ -1,11 +1,7 @@
-#include <stdio.h>
+#include<stdio.c>
 
 int main()
 {
   printf("Jeands esteve aqui");
-  casffasf
-  asfasfasfas
-  fasfasfasfasf
-  fasfasfasf
   return 0;
 }
