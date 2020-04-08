@@ -2,6 +2,6 @@
 
 int main()
 {
-printf("Qualquer coisa");
+printf("Baladinha mostro");
 return 0;
 }
