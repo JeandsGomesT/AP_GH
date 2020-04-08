@@ -2,6 +2,6 @@
 
 int main()
 {
-printf("Qualquer coisa");
+printf("Coisa nossa");
 return 0;
 }
