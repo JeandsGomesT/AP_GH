@@ -1,0 +1,3 @@
+Classe Frequencia
+solteiro 16
+casado 20
